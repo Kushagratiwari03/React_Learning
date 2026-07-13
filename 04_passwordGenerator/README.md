@@ -2,6 +2,22 @@
 
 A React application that generates secure random passwords based on user preferences.
 
+## 🌐 Live Demo
+
+https://react-learning-1kqe.vercel.app/
+
+## 📸 Project Preview
+
+![Simple Generated Password](04_passwordGenerator/screenshots/Screenshot (216).png)
+
+---
+
+![Generated Password with numbers and characters](04_passwordGenerator/screenshots/Screenshot (217).png)
+
+---
+
+![Copy Feature](04_passwordGenerator/screenshots/Screenshot (218).png)
+
 ## Features
 
 - Generate Random Password
