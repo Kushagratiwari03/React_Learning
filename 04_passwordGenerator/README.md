@@ -8,15 +8,16 @@ https://react-learning-1kqe.vercel.app/
 
 ## 📸 Project Preview
 
-![Simple Generated Password](04_passwordGenerator/screenshots/Screenshot (216).png)
+![Simple Generated Password](./screenshots/Screenshot%20(216).png)
 
 ---
 
-![Generated Password with numbers and characters](04_passwordGenerator/screenshots/Screenshot (217).png)
+![Generated Password with numbers and characters](./screenshots/Screenshot%20(217).png)
+
 
 ---
 
-![Copy Feature](04_passwordGenerator/screenshots/Screenshot (218).png)
+![Copy Feature](./screenshots/Screenshot%20(218).png)
 
 ## Features
 
